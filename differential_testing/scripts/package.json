@@ -12,7 +12,7 @@
     "rlp": "^3.0.0"
   },
   "devDependencies": {
-    "typescript": "^4.6.3"
+    "typescript": "^5.9.2"
   },
   "scripts": {
     "compile": "npx tsc --esModuleInterop --downlevelIteration ./*.ts",
